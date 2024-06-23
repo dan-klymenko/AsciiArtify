@@ -1,9 +1,12 @@
 Вступ:
-minikube
-kind (Kubernetes IN Docker)
-k3d
+| Rank | Kubernetes                     |
+|-----:|--------------------------------|
+|     1| minikube                       |
+|     2| kind (Kubernetes IN Docker)    |
+|     3| k3d                            |
 
 Характеристики:
+
 
 Переваги та недоліки:
 
